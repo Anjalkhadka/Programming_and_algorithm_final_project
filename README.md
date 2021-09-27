@@ -8,3 +8,6 @@
 # Feature
 1. Adding the data by the user.
 2. Deleting the data that is added.
+3. Updating the data that is added.
+4. Viewing the data.
+5. 
