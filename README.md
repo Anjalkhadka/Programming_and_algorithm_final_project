@@ -12,6 +12,12 @@
 4. Viewing the data.
 
 
-# Output Of the project
-
- #Screen Shot 2021-09-27 at 16.26.12
+# Guide 
+ 1.The final code is on the MAIN file.
+ 2.Python is needed to run the file.
+ 3.And Pycharm as the code editor.
+ 4.And some module in the pucharm.
+ 5.Finally download the project and run it.
+ 
+ 
+ 
